@@ -22,14 +22,18 @@ In this project, we perform the following key tasks:
 
 To get started with this project, follow these steps:
 
-1. **Clone the Repository** 📥:
-
+1. **Clone the Repository** 📥:=
+ 
 
 2. **Install Required Packages** 📦:
-
+   ```bash
+   pip install pandas matplotlib apyori mlxtend
+   ```
 
 3. **Run the Jupyter Notebook** 📝:
-   
+   ```bash
+   jupyter notebook Market_Basket_Analysis_Using_apriori_package.ipynb
+   ```
 
 ## 📈 Key Findings
 
@@ -42,4 +46,6 @@ To get started with this project, follow these steps:
 ## 🤝 Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
+
+
 
