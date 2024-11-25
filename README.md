@@ -23,20 +23,13 @@ In this project, we perform the following key tasks:
 To get started with this project, follow these steps:
 
 1. **Clone the Repository** 📥:
-   ```bash
-   git clone https://github.com/yourusername/market-basket-analysis.git
-   cd market-basket-analysis
-   ```
+
 
 2. **Install Required Packages** 📦:
-   ```bash
-   pip install pandas matplotlib apyori mlxtend
-   ```
+
 
 3. **Run the Jupyter Notebook** 📝:
-   ```bash
-   jupyter notebook Market_Basket_Analysis_Using_apriori_package.ipynb
-   ```
+   
 
 ## 📈 Key Findings
 
